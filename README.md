@@ -14,12 +14,6 @@
   </div>
 
 <h3 align="center">Startup Directory Platform</h3>
-
-   <div align="center">
-     Build this project step by step with our detailed tutorial on <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a> YouTube. Join the JSM family!
-    </div>
-</div>
-
 ## 📋 <a name="table">Table of Contents</a>
 
 1. 🤖 [Introduction](#introduction)
@@ -44,11 +38,6 @@ like these step-by-step in a beginner-friendly manner!
 
 A Next.js 15 platform where entrepreneurs can submit their startup ideas for virtual pitch competitions, browse other
 pitches, and gain exposure through a clean minimalistic design for a smooth user experience.
-
-If you're getting started and need assistance or face any bugs, join our active Discord community with over **34k+**
-members. It's a place where people help each other out.
-
-<a href="https://discord.com/invite/n6EdbFJ" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/618f4872-1e10-42da-8213-1d69e486d02e" /></a>
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
@@ -556,14 +545,8 @@ export const PLAYLIST_BY_SLUG_QUERY =
 ## <a name="links">🔗 Assets</a>
 
 - Fonts and Assets used in the project can be found [here](https://drive.google.com/file/d/1OEFHnEq5pQFP86u8FOBLBBNxKPsbjjqU/view?usp=sharing)
-- [Learn Server Actions](https://youtu.be/FKZAXFjxlJI?feature=shared)
 - [Applicaton Workflow](https://miro.com/app/board/uXjVLT_tMdU=/?share_link_id=580854757703)
 
-## <a name="more">🚀 More</a>
-
-**Advance your skills with Next.js Pro Course**
-
-Enjoyed creating this project? Dive deeper into our PRO courses for a richer learning experience. They're packed with detailed explanations, cool features, and exercises to boost your skills. Give it a go!
 
 <a href="https://www.jsmastery.pro/ultimate-next-course" target="_blank">
 <img src="https://i.ibb.co/804sPK6/Image-720.png" alt="Project Banner">
